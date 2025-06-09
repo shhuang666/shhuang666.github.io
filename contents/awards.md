@@ -1,13 +1,15 @@
-- National Scholarship of Graduate Student, 2024.
+- Postgraduate Studentship of CUHK, 2022-Present.
 
-- First-prize Scholarship of CUMT, 2024.
+- Excellent Postgraduate of XJTU, 2019.
 
-- First-prize Scholarship of CUMT, 2023.
+- Jiang Deming Scholarship, 2019.
 
-- Freshman Scholarship of CUMT, 2022.
+- Excellent Graduate of XJTU, 2017.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Excellent Stutent of XJTU, 2016.
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+- Yunnei Power Scholarship, 2015, 2016.
 
-- First-prize Scholarship of CUMT, 2019.
+- Outstanding Award of National Zhou Peiyuan Competition on Mechanics, 2015.
+
+- Siyuan Scholarship, 2014.

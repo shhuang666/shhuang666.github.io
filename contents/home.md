@@ -1,16 +1,16 @@
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
-#### Email
-sli[at]cumt.edu.cn
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+He is currently pursuing a doctor's degree in mechanical & automation engineering at the Chinese University of Hong Kong.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Smart grids, online optimization, electric vehicles, reinforcement learning.
 
+#### Email
+shhuang@link.cuhk.edu.hk
+
+#### Education
+Ph.D., Mechanical & Automation Engineering, The Chinese University of Hong Kong, 2022—2026 (expected).\
+M.E., Power Engineering & Engineering Thermodynamics, Xi'an Jiaotong University, 2017-2020.\
+B.E., Energy & Power Engineering, Xi'an Jiaotong University, 2013—2017.
+
+#### Work Experiences
+Senior Vehicle Control Strategy Engineer, BYD Auto, 2020-2022.
